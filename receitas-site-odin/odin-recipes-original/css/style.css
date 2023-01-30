@@ -1,0 +1,81 @@
+
+h1{
+  text-align: center;
+  color: yellow
+}
+
+p{
+    font-size: 20px;
+    color: black;
+}
+body{
+    background-image: linear-gradient(blue,yellow);
+}
+#about{
+    font-size: 20px;
+    margin-right: auto;
+    border-radius: 25px;
+    background-image: linear-gradient(yellow, white);
+    border: 2px solid #1d3003;
+    padding: 20px;
+    width: 200px;
+    height: 60px;
+}
+#main {
+    height: auto;
+    width: 500px;
+    border-radius: 50%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+  #pudi{ 
+    font-size: 20px;
+    text-align: center;
+    margin-right: auto;
+    border-radius: 25px;
+    background-image: linear-gradient(yellow, white);
+    border: 2px solid #1d3003;
+    padding: 20px;
+    width: 200px;
+    height: 40px;
+  }
+  #qm{ 
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 25px;
+    border: 2px solid #1d3003;
+    background-image: linear-gradient(yellow, white);
+    padding: 20px;
+    width: 200px;
+    height: 40px;
+  }
+  #bg{ 
+    font-size: 20px;
+    border-radius: 25px;
+    margin-left: auto;
+    text-align: center;
+    background-image: linear-gradient(yellow, white);
+    border: 2px solid #1d3003;
+    padding: 20px;
+    width: 200px;
+    height: 40px;
+  }
+  #receitas{
+    display: flex;
+    margin-top: auto;
+    margin-left: auto;
+  }
+
+  #bd {
+    text-align: center;
+
+  }
+
+  h3{
+   text-align: center;
+  }
+  
